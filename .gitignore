@@ -1,0 +1,5 @@
+# 项目排除路径
+/.gradle/
+/question-service/build/
+/question-service/build/classes/java/main/
+/question-service/build/classes/java/test/
